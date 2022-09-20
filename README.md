@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo](https://github.com/ColterLong/advice-generator-app)
-- Live Site URL: [Add live site URL here](https://advice-generator-app-theta-six.vercel.app/)
+- Solution URL: [Github repo](https://github.com/ColterLong/advice-generator-app)
+- Live Site URL: [Vercel live app](https://advice-generator-app-theta-six.vercel.app/)
 
 ## My process
 
