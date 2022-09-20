@@ -30,6 +30,7 @@ Users should be able to:
 
 - Solution URL: [Github repo](https://github.com/ColterLong/advice-generator-app)
 - Live Site URL: [Vercel live app](https://advice-generator-app-theta-six.vercel.app/)
+- Azure static web app: [Azure](https://brave-moss-018c85710.1.azurestaticapps.net/)
 
 ## My process
 
